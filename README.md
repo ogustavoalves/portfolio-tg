@@ -12,8 +12,11 @@ Aqui está a versão revisada do texto com correções ortográficas e gramatica
   Graduando em Análise e Desenvolvimento de Sistemas
 </pre>
 </p>
+ 
 
 Meu primeiro contato com programação foi no SENAI ao programar em C para Arduino. Algum tempo depois, ingressei na FATEC Prof. Jessen Vidal, em São José dos Campos, e continuei meus estudos na área. Num primeiro momento, foquei no desenvolvimento front-end, mas com o tempo e devido às necessidades, comecei a estudar desenvolvimento back-end. Atualmente, estou interessado em áreas como análise de dados, inteligência artificial e sistemas operacionais (principalmente Linux).
+
+
 Durante meus anos no SENAI Santos Dumont cursando "Eletricista de Manutenção Eletroeletrônica", fui jovem aprendiz na empresa Avibras.
 
 ## Contatos
