@@ -1,7 +1,3 @@
-Aqui está a versão revisada do texto com correções ortográficas e gramaticais:
-
----
-
 # Gustavo Alves dos Santos
 
 ## Introdução
