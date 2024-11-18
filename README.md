@@ -123,13 +123,13 @@ Na sessão de controle de chamados, fui responsável por exibir os cards e filtr
 **Empresa:** *FATEC São José dos Campos - SP*  
 Profº Giuliano Araújo Bertoti  
 
-**Desafio:**  
-Foi solicitado criar um aplicativo desktop para que professores pudessem gerenciar o fluxo escolar em sala de aula, levando em consideração alguns detalhes como a falta de conexão com a internet.
+**Problemática:**  
+Muitas escolas enfrentam dificuldades no gerenciamento do fluxo escolar em sala de aula devido à falta de ferramentas adequadas para organizar e acompanhar as atividades de professores e alunos. Além disso, a limitação ou ausência de conexão com a internet em algumas regiões prejudica o uso de soluções baseadas na web, dificultando o acesso a informações essenciais para o planejamento e a execução das aulas. Isso cria a necessidade de uma solução prática, acessível e independente da conectividade, para que os professores possam gerenciar de forma eficiente as atividades escolares no dia a dia.
 
 **Solução:**  
-A equipe chegou à seguinte solução:
+A solução encontrada foi uma aplicação para otimizar a gestão acadêmica, oferecendo funcionalidades que permitem o gerenciamento completo de alunos, turmas, atividades e notas. Com telas específicas para visão geral, cadastro e acompanhamento, o sistema centraliza informações e automatiza processos, proporcionando maior eficiência e organização no ambiente escolar. Essa solução visa atender às necessidades de professores, facilitando o monitoramento do desempenho dos alunos e o planejamento pedagógico.
 
-**Requisitos**
+**Composição**
 - [x] Tela Home/"Visão Geral"
 - [x] Tela de Aluno
 - [x] Tela de Atividade
@@ -155,9 +155,9 @@ Para mais informações:
 | GitHub     | Usado para o versionamento da aplicação.                       |
 | Figma      | Usado para desenvolver o MVP do projeto.                       |
 
-### Contribuições Pessoais
+### Contribuições Pessoais (Papel Scrum: Dev Team)
 
-Fui responsável pelo método que obtinha o nome das atividades ("Assignments"), utilizando "Java ArrayList", além de cuidar de detalhes mínimos na aparência do app e contribuir na modelagem do banco de dados em MySQL.
+Fiquei encarregado de implementar o método que obtinha o nome das atividades ("Assignments"), utilizando "Java ArrayList", garantindo que a aplicação processasse e exibisse os dados de maneira eficiente. Além disso, cuidei de ajustes mínimos na aparência do app, aprimorando a experiência do usuário com detalhes visuais. Também contribui na modelagem do banco de dados em MySQL, ajudando a estruturar a base de dados de forma otimizada e alinhada às necessidades do projeto. Minha atuação foi fundamental para a integração entre o front-end e o back-end da aplicação.
 
 ### Hard Skills
 
@@ -191,14 +191,15 @@ Fui responsável pelo método que obtinha o nome das atividades ("Assignments"),
 
 **Data:** *Agosto/2023*  
 **Empresa:** *IONIC Health*  
+**Área de atuação:** A Ionic Health atua na digitalização e automação da medicina diagnóstica, com foco em IoT, inteligência artificial e monitoramento remoto, otimizando processos médicos, equipamentos e serviços para melhorar a eficiência e qualidade na saúde​.
 
-**Desafio:**  
-Desenvolver uma plataforma onde seja possível gerenciar processos e procedimentos relacionados à aplicação de ISOs na empresa.
+**Problemática:**  
+Empresas que adotam padrões de qualidade baseados em ISOs frequentemente enfrentam desafios no gerenciamento de processos e procedimentos relacionados à sua aplicação. A falta de uma plataforma centralizada para organizar, monitorar e garantir conformidade dificulta a execução consistente desses padrões. Isso pode levar a falhas no acompanhamento das normas, retrabalho e perda de eficiência operacional, comprometendo a qualidade geral dos processos e a conformidade com auditorias.
 
 **Solução:**  
-A equipe chegou à seguinte solução:
+A equipe desenvolveu como solução a plataforma, que visava resolver os desafios enfrentados por empresas que adotam padrões de qualidade baseados em ISOs, oferecendo um sistema centralizado para o gerenciamento de processos e evidências. Com funcionalidades como uma página de Kanban para visualização de tarefas, cadastro de processos e usuários, além de um sistema de login e controle de evidências, a ferramenta facilitava o acompanhamento das normas e promovia a conformidade. A responsividade garantia o acesso em diferentes dispositivos, melhorando a eficiência operacional e minimizando retrabalho, o que contribuiu para a qualidade e preparação para auditorias.
 
-**Requisitos**
+**Compisição**
 - [x] Página de Kanban
 - [x] Cadastro de processos
 - [x] Cadastro/Login de usuário
@@ -221,9 +222,9 @@ Para mais informações:
 | React        | Biblioteca JavaScript usada para criar páginas web dinâmicas.           |
 | Figma        | Usado para criar o MVP do projeto.                                      |
 
-### Contribuições Pessoais
+### Contribuições Pessoais (Papel Scrum: Dev Team)
 
-Fui responsável pela criação da maior parte do protótipo no Figma e pela criação da estrutura da tela de Kanban, onde usei React com JavaScript, mantendo minhas contribuições no front-end do projeto.
+Minhas funções incluíram a criação da maior parte do protótipo no Figma, onde desenvolvi o design das interfaces e a experiência do usuário, garantindo uma navegação intuitiva e fluída. Além disso, criei a estrutura da tela de Kanban, utilizando React com JavaScript, o que permitiu uma interação eficiente com as tarefas e um fluxo de trabalho organizado. Minha contribuição foi focada no front-end do projeto, assegurando que tanto o design visual quanto a implementação das funcionalidades estivessem alinhados com as necessidades do sistema.
 
 ### Hard Skills
 
@@ -251,14 +252,15 @@ Fui responsável pela criação da maior parte do protótipo no Figma e pela cri
 
 **Data:** *Fevereiro/2024*  
 **Empresa:** *SIATT*  
+**Área de atuação:** A Siatt desenvolve sistemas de defesa de alta tecnologia, incluindo mísseis inteligentes e integração de sistemas complexos, fornecendo soluções avançadas para atender demandas militares e estratégicas no Brasil​.
 
-**Desafio:**  
-Desenvolver uma aplicação que automatiza o agendamento de reuniões, integrando dados de diferentes fontes para gerenciar disponibilidades, formatos (presencial, online, híbrido) e níveis de permissão, além de gerar atas pré-preenchidas para otimizar o processo.
+**Problemática:**  
+O agendamento de reuniões é um processo frequentemente ineficiente, especialmente em ambientes corporativos que envolvem diversas fontes de dados e necessidades distintas, como diferentes formatos (presencial, online, híbrido) e níveis de permissão. A ausência de automação nesse processo resulta em desperdício de tempo, conflitos de agenda e falta de organização. Além disso, a preparação manual de atas aumenta a carga administrativa, dificultando a otimização do fluxo de trabalho e a colaboração eficiente entre os participantes.
 
 **Solução:**  
-A equipe chegou à seguinte solução:
+O time desenvolveu uma plataforma para otimizar o agendamento de reuniões em ambientes corporativos, resolvendo problemas de ineficiência e falta de organização. A aplicação incluía páginas para Home, Salas, Reuniões e Usuário, além de funcionalidades para cadastro, exclusão e edição de reuniões e usuários. A ferramenta automatizava o processo de agendamento e organização, minimizando conflitos de agenda e economizando tempo. A responsividade garantiu o acesso em diferentes dispositivos, enquanto a gestão de permissões e tipos de reuniões (presenciais, online ou híbridas) melhorava a colaboração e a eficiência do fluxo de trabalho.
 
-**Requisitos**
+**Composição**
 - [x] Páginas: Home, Salas, Reuniões e Usuário
 - [x] Cadastro de: Reuniões e Usuários
 - [x] Funcionalidades relacionadas às reuniões (exclusão, deleção)
@@ -281,9 +283,9 @@ Para mais informações:
 | API do Zoom      | Conexão direta com o Zoom para facilitar a organização de reuniões virtuais. |
 | AWS              | Hospedagem da aplicação e gerenciamento de serviços na nuvem.               |
 
-### Contribuições Pessoais
+### Contribuições Pessoais (Papel Scrum: Dev Team)
 
-Efetuei algumas alterações mínimas no carousel de reuniões e calendário, usando React com TypeScript. Também fui responsável pelo protótipo da aplicação, feito no Figma.
+Efetuei algumas alterações mínimas no carousel de reuniões e no calendário, utilizando React com TypeScript, para melhorar a usabilidade e a performance dessas funcionalidades. Além disso, fui responsável pela criação do protótipo da aplicação no Figma, onde trabalhei no design das telas e na definição da experiência do usuário. Minha contribuição foi crucial para garantir que as interfaces fossem visualmente atraentes e funcionais, além de proporcionar uma base sólida para o desenvolvimento da aplicação.
 
 ### Hard Skills
 
@@ -297,5 +299,72 @@ Efetuei algumas alterações mínimas no carousel de reuniões e calendário, us
 
 - **Pensamento em Terceira Pessoa (Usuário)**:  
   Fui capaz de aprimorar minha habilidade de me colocar no lugar do usuário. Exemplo: ao desenvolver a UI do projeto, precisei pensar em como o usuário agiria ao utilizar nossa plataforma.
+
+</details>
+
+
+<!------------------------------>
+
+<details> 
+<summary>API 5° Semestre (2024-2)</summary>
+
+**Data:** *Agosto/2024*  
+**Empresa:** *Kersys*  
+**Área de atuação:** A Kersys é uma empresa brasileira que oferece soluções tecnológicas para a gestão florestal e agrícola, focando na otimização de recursos e processos. Seus sistemas auxiliam no planejamento e controle de plantios florestais e operações agrícolas.
+
+**Problemática:**  
+Desenvolver um aplicativo para produtores rurais, com o objetivo de permitir o acompanhamento das variações climáticas em suas lavouras. O sistema deve possibilitar o cadastro de pontos de monitoramento, permitindo a visualização de gráficos sobre a pluviometria e temperatura desde uma data informada até o momento atual.
+
+**Solução:**  
+A solução na qual o time chegou foi um plataforma interativa voltada para o gerenciamento de pontos georreferenciados, com foco em cultivos ou áreas específicas. Oferece funcionalidades completas, como cadastro e autenticação de usuários, mapeamento e registro de coordenadas, histórico de dados em um dashboard informativo, e personalização no perfil do usuário. Além disso, conta com notificações push para manter os usuários atualizados em tempo real. A interface intuitiva visa facilitar o uso, promovendo eficiência e organização.
+
+**Composição**
+- [x] Tela de Cadastro
+- [x] Tela de Login
+- [x] Funcionalidade de Cadastro/Login de usuário
+- [x] Tela de seleção de pontos (mapa)
+- [x] Tela de cadastro de coordenadas/cultivos
+- [x] Tela de dashboard/histórico
+- [x] Tela de perfil
+- [x] Tela home
+- [x] Funcionalidade de disparo de notificações push
+
+
+### Imagens do Projeto
+<img src="assets/gif-api-5.gif" alt="aplicação rodando">
+
+Para mais informações:  
+[GitHub](https://github.com/MirageGroup/API_MirageGroup_5_Semestre)
+
+#### Tecnologias Utilizadas
+
+| Nome         |  Descrição                                                              |
+|--------------|-------------------------------------------------------------------------|
+| Node.js      | Framework para rodar JavaScript como linguagem de backend.              |
+| TypeScript   | Superset do JavaScript, adicionando tipagem estática opcional.          |
+| Firebase     | Banco de dados não relacional.                                          |
+| React Native | Estrutura de software usada para desenvolver aplicativos móveis.        |
+| Figma        | Usado para criar o MVP do projeto.                                      |
+| Android Studio | IDE usada para testar e criar aplicativos android.                    |
+
+### Contribuições Pessoais (Papel Scrum: Product Owner)
+
+Atuei como Product Owner, sendo responsável por conduzir o processo de coleta de requisitos, o que incluía fazer perguntas detalhadas ao cliente para entender suas necessidades e expectativas. Também apresentei as sprints, garantindo que a equipe tivesse clareza sobre os objetivos e as entregas em cada fase. A comunicação constante com o cliente e a equipe foi essencial para o sucesso do projeto.
+
+### Hard Skills
+
+| Skill       |  Proficiência |  Descrição   |
+|-------------|---------------|--------------|
+| Jira        |    7/10       | Aprendi a usar a plataforma para gerenciar o projeto, quebrando e atribuindo tasks |
+| Figma       |    9/10       | Aprimorei minha capacidade de criar o MVP do projeto. |
+
+
+### Soft Skills
+
+- **Comunicação em público**:  
+  Tornei-me melhor em falar em público devido às apresentações de sprint ao cliente, aprendendo a apresentar nosso produto em um espaço de tempo curto no "formato de pitch de vendas". Exemplo: todas as apresentações de sprint da 5° API.
+
+- **Priorizar tarefas**:  
+  Aprendi a selecionar tarefas conforme seu valor para o projeto final, entendendo o que é de maior importância para o cliente e negociando com a equipe para focar em tal tarefa. Exemplo: quando decidimos deixar o sistema de login do usuário para a segunda sprint, focando na tarefa de "conectividade".
 
 </details>
