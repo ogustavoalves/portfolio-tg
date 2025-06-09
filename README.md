@@ -396,7 +396,7 @@ A solução na qual o time chegou foi um plataforma com uma interface para conve
 
 
 ### Imagens do Projeto
-<img src="assets/gif-api-5.gif" alt="aplicação rodando">
+<img src="assets/api_6.gif" alt="aplicação 6 rodando">
 
 Para mais informações:  
 [GitHub](https://github.com/MirageGroup/API_MirageGroup_6_Semestre)
