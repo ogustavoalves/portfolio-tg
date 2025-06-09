@@ -368,3 +368,78 @@ Atuei como Product Owner, sendo responsável por conduzir o processo de coleta d
   Aprendi a selecionar tarefas conforme seu valor para o projeto final, entendendo o que é de maior importância para o cliente e negociando com a equipe para focar em tal tarefa. Exemplo: quando decidimos deixar o sistema de login do usuário para a segunda sprint, focando na tarefa de "conectividade".
 
 </details>
+
+<!------------------------------>
+
+<details> 
+<summary>API 6° Semestre (2025-1)</summary>
+
+**Data:** *Fevereito/2025*  
+**Empresa:** *Dom Rock*  
+**Área de atuação:** A Dom Rock atua na área de Big Data e Inteligência Artificial, oferecendo soluções para integração, análise e gestão de dados em larga escala. Suas plataformas atendem empresas B2B com foco em automação de decisões, otimização de processos e geração de insights estratégicos.
+
+
+**Problemática:**  
+O desafio da Dom Rock consiste em criar uma aplicação web para avaliação de respostas de LLMs, visando aprimorar o retreinamento desses modelos por meio de feedback humano. A aplicação deve permitir o envio de um prompt para dois LLMs via API simultaneamente, apresentar as duas respostas obtidas e permitir que o usuário avalie cada resposta e compare-as, justificando qual foi a melhor. Todas essas informações deverão ser gravadas em um banco de dados para futuros retreinamentos dos LLMs.
+
+**Solução:**  
+A solução na qual o time chegou foi um plataforma com uma interface para conversa (chat) com dois LLMs em simultâneo, além da funcionalidade de avaliação de cada resposta e uma tela de dashboard onde são apresentados os gráficos de comparativo entre modelos e de tempo de resposta de cada modelo.
+
+**Composição**
+- [x] Tela de caht
+- [x] Tela de Dashboard
+- [x] Funcionalidade de avaliação de respostas
+- [x] Conexão com dois LLMs (Qwen & Deepseek)
+- [x] "Tom de conversa" dos modelos editado visando maior empatia
+- [x] Funcionalidade de RAG (Retrieval-Augmented Generation) 
+- [x] Armazenamento de dados visando RLHF (Reinforcement learning from human feedback)
+
+
+### Imagens do Projeto
+<img src="assets/gif-api-5.gif" alt="aplicação rodando">
+
+Para mais informações:  
+[GitHub](https://github.com/MirageGroup/API_MirageGroup_6_Semestre)
+
+#### Tecnologias Utilizadas
+
+| Nome         | Descrição                                                               |
+|--------------|-------------------------------------------------------------------------|
+| Vue.js       | Framework progressivo para a construção de interfaces de usuário. |
+| Spring Boot  | Framework para facilitar a criação de aplicações Java autônomas e baseadas em microserviços. |
+| Python       | Linguagem de programação de alto nível, amplamente usada para desenvolvimento web, análise de dados e inteligência artificial. |
+| FastAPI      | Moderno framework web para a construção de APIs com Python, baseado em tipos padrão do Python. |
+| LangChain    | Framework para o desenvolvimento de aplicações alimentadas por grandes modelos de linguagem (LLMs). |
+| Groq         | Plataforma de inferência para LLMs que oferece desempenho de baixa latência. |
+| Qwen         | Família de modelos de linguagem grandes de código aberto, desenvolvidos pelo Alibaba Cloud. |
+| DeepSeek     | Modelos de linguagem grandes de código aberto para uma variedade de tarefas. |
+| MongoDB      | Banco de dados NoSQL orientado a documentos, projetado para escalabilidade e agilidade no desenvolvimento. |
+| ChromaDB | Banco de dados de vetores de código aberto, ideal para aplicações de IA. |
+
+### Contribuições Pessoais (Papel Scrum: Product Owner)
+
+Atuei como Product Owner, sendo responsável por conduzir o processo de coleta de requisitos, o que incluía fazer perguntas detalhadas ao cliente para entender suas necessidades e expectativas. Também apresentei as sprints, garantindo que a equipe tivesse clareza sobre os objetivos e as entregas em cada fase. A comunicação constante com o cliente e a equipe foi essencial para o sucesso do projeto.
+
+### Hard Skills
+
+| Skill       |  Proficiência |  Descrição   |
+|-------------|---------------|--------------|
+| LangChain   |    9/10       | Aprendi a usar o framework de trabalho com LLMs que facilita o fluxo de criação e gerenciamento dos modelos. |
+| FastAPI     |    7/10       | Aprendi a disponibilizar serviços via interface de programação. |
+| Groq        |    9/10       | Aprendi a usar a ferramenta de aceleração de aceleração de respostas de LLMs. |
+| ChromaDB    |    7/10       | Aprendi a armazenar localmente os vetores semânticos para serem posteriormente recuperados e usados no RAG. |
+| Python      |    9/10       | Aprimorei minhas habilidades em programação orientada a objetos, consumo de APIs e padrões de projetos num geral (principalmente envolvendo IAs). |
+
+
+### Soft Skills
+
+- **Autonomia e comunicação assertiva**:  
+  Desenvolvi autonomia ao conduzir apresentações de sprint ao cliente, assumindo a responsabilidade de apresentar o progresso do time de forma objetiva e estratégica, no estilo "pitch de vendas", mesmo com tempo limitado.  
+  *Exemplo: quando organizei-me com um colega para desenvolver o serviço de comunicação com as LLMs e disponibilizar via API.*
+
+- **Capacidade de resolução de problemas e tomada de decisão**:  
+  Aprimorei minha capacidade de resolver problemas ao tomar decisões sobre prioridades junto à equipe, considerando o impacto para o cliente e o prazo do projeto.  
+  *Exemplo: quando, ao não conseguir armazenar os vetores semânticos remotamente os vetores semânticos, organizei o projeto para apontar localmente os dados de modo a tornar mais simples a utilização de outros membros da equipe.*
+
+
+</details>
