@@ -416,7 +416,7 @@ Para mais informações:
 | MongoDB      | Banco de dados NoSQL orientado a documentos, projetado para escalabilidade e agilidade no desenvolvimento. |
 | ChromaDB | Banco de dados de vetores de código aberto, ideal para aplicações de IA. |
 
-### Contribuições Pessoais (Papel Scrum: Product Owner)
+### Contribuições Pessoais (Papel Scrum: Dev Team)
 
 Atuei como Product Owner, sendo responsável por conduzir o processo de coleta de requisitos, o que incluía fazer perguntas detalhadas ao cliente para entender suas necessidades e expectativas. Também apresentei as sprints, garantindo que a equipe tivesse clareza sobre os objetivos e as entregas em cada fase. A comunicação constante com o cliente e a equipe foi essencial para o sucesso do projeto.
 
