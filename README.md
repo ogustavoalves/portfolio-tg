@@ -351,6 +351,18 @@ Para mais informações:
 
 Atuei como Product Owner, sendo responsável por conduzir o processo de coleta de requisitos, o que incluía fazer perguntas detalhadas ao cliente para entender suas necessidades e expectativas. Também apresentei as sprints, garantindo que a equipe tivesse clareza sobre os objetivos e as entregas em cada fase. A comunicação constante com o cliente e a equipe foi essencial para o sucesso do projeto.
 
+Além disso, fui responsável por gerenciar diversos artefatos do Scrum, incluindo:
+
+- **Product Backlog**: organizei, refinei e priorizei as histórias de usuário de acordo com o valor de negócio e a viabilidade técnica, em alinhamento com o cliente.
+- **User Stories e Critérios de Aceitação**: escrevi e revisei user stories com critérios de aceitação claros, garantindo que os desenvolvedores tivessem uma base sólida para implementação.
+- **Roadmap do Produto**: desenvolvi uma visão macro das funcionalidades, distribuídas por sprint, para garantir previsibilidade na entrega.
+- **Definition of Done (DoD)**: alinhei com o time critérios mínimos para considerar uma funcionalidade completa, promovendo qualidade e consistência nas entregas.
+- **Quadro no Jira**: organizei o fluxo das tarefas no Jira, categorizando por prioridade, tipo de entrega e status, o que ajudou na visualização e no acompanhamento do progresso do time.
+- **Checklist de Revisão de Sprint**: elaborei e atualizei checklists para revisão das entregas a cada sprint, promovendo foco nos objetivos definidos.
+
+Essa atuação me proporcionou uma visão estratégica do projeto e desenvolveu minha capacidade de tomada de decisão com base em feedback contínuo.
+
+
 ### Hard Skills
 
 | Skill       |  Proficiência |  Descrição   |
@@ -379,11 +391,14 @@ Atuei como Product Owner, sendo responsável por conduzir o processo de coleta d
 **Área de atuação:** A Dom Rock atua na área de Big Data e Inteligência Artificial, oferecendo soluções para integração, análise e gestão de dados em larga escala. Suas plataformas atendem empresas B2B com foco em automação de decisões, otimização de processos e geração de insights estratégicos.
 
 
-**Problemática:**  
-O desafio da Dom Rock consiste em criar uma aplicação web para avaliação de respostas de LLMs, visando aprimorar o retreinamento desses modelos por meio de feedback humano. A aplicação deve permitir o envio de um prompt para dois LLMs via API simultaneamente, apresentar as duas respostas obtidas e permitir que o usuário avalie cada resposta e compare-as, justificando qual foi a melhor. Todas essas informações deverão ser gravadas em um banco de dados para futuros retreinamentos dos LLMs.
+**Problema**:
+Cuidadores de pessoas com Alzheimer frequentemente enfrentam dificuldades na tomada de decisões e na busca por informações específicas e confiáveis sobre os cuidados diários. Esses desafios se agravam em situações emergenciais ou em tópicos pouco explorados pelos materiais tradicionais.
 
-**Solução:**  
-A solução na qual o time chegou foi um plataforma com uma interface para conversa (chat) com dois LLMs em simultâneo, além da funcionalidade de avaliação de cada resposta e uma tela de dashboard onde são apresentados os gráficos de comparativo entre modelos e de tempo de resposta de cada modelo.
+**Desafio**:
+Criar uma solução tecnológica baseada em inteligência artificial que forneça suporte informativo personalizado aos cuidadores, com embasamento científico e linguagem acessível.
+
+Solução:
+Desenvolvemos uma aplicação que integra uma LLM (Large Language Model) com a técnica de RAG (Retrieval-Augmented Generation), utilizando uma base composta por milhares de documentos científicos sobre o Alzheimer. A ferramenta permite que cuidadores façam perguntas diretamente à IA, recebendo respostas fundamentadas e contextualizadas. Adicionalmente, o sistema possui um módulo de Human Feedback, no qual o usuário compara respostas geradas por dois modelos distintos e as avalia com base em critérios definidos, contribuindo para o aprimoramento contínuo da solução.
 
 **Composição**
 - [x] Tela de caht
