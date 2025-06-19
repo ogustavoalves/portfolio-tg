@@ -397,7 +397,7 @@ Cuidadores de pessoas com Alzheimer frequentemente enfrentam dificuldades na tom
 **Desafio**:
 Criar uma solução tecnológica baseada em inteligência artificial que forneça suporte informativo personalizado aos cuidadores, com embasamento científico e linguagem acessível.
 
-Solução:
+**Solução**:
 Desenvolvemos uma aplicação que integra uma LLM (Large Language Model) com a técnica de RAG (Retrieval-Augmented Generation), utilizando uma base composta por milhares de documentos científicos sobre o Alzheimer. A ferramenta permite que cuidadores façam perguntas diretamente à IA, recebendo respostas fundamentadas e contextualizadas. Adicionalmente, o sistema possui um módulo de Human Feedback, no qual o usuário compara respostas geradas por dois modelos distintos e as avalia com base em critérios definidos, contribuindo para o aprimoramento contínuo da solução.
 
 **Composição**
