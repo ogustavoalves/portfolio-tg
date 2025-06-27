@@ -433,7 +433,7 @@ Para mais informações:
 
 ### Contribuições Pessoais (Papel Scrum: Dev Team)
 
-Atuei como Product Owner, sendo responsável por conduzir o processo de coleta de requisitos, o que incluía fazer perguntas detalhadas ao cliente para entender suas necessidades e expectativas. Também apresentei as sprints, garantindo que a equipe tivesse clareza sobre os objetivos e as entregas em cada fase. A comunicação constante com o cliente e a equipe foi essencial para o sucesso do projeto.
+Atuei como desenvolvedor, sendo responsável por conectar o sistema a grandes modelos de linguagem (LLMs), gerenciando seu escopo, tom e integração com a aplicação. Implementei a funcionalidade de RAG (Recuperação Aumentada com Geração), instanciando o banco vetorial com persistência dos dados fornecidos e desenvolvendo prompts otimizados por meio de engenharia de prompt. Essa abordagem permitiu recuperar contextos relevantes para enriquecer as respostas geradas pelo modelo. A integração eficaz entre backend e modelo foi essencial para garantir respostas coerentes, contextualizadas e alinhadas aos objetivos do projeto.
 
 ### Hard Skills
 
